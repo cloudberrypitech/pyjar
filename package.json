@@ -1,5 +1,5 @@
 {
-  "name": "pyjar",
+  "name": "@cloudberrypitech/pyjar",
   "version": "1.0.0",
   "description": "Python-inspired utilities for JavaScript",
   "main": "index.js",
@@ -12,7 +12,14 @@
     "pythonic",
     "utilities"
   ],
-  "author": "",
+  "author": "cloudberrypitech",
   "license": "MIT",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudberrypitech/pyjar.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
