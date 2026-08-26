@@ -1,13 +1,18 @@
 {
   "name": "pyjar",
   "version": "1.0.0",
-  "description": "",
+  "description": "Python-inspired utilities for JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": [
+    "python",
+    "javascript",
+    "pythonic",
+    "utilities"
+  ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs"
 }
