@@ -17,7 +17,7 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloudberrypitech/pyjar.git"
+    "url": "git+https://github.com/cloudberrypitech/pyjar.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
